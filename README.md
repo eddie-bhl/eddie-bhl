@@ -1,3 +1,10 @@
+<p align="center">
+  <a href="https://github.com/eddie-bhl?tab=followers">
+    <img src="https://img.shields.io/github/followers/eddie-bhl?style=social" />
+  </a>
+</p>
+
+
 ## Hi there 👋
 I am Eddie (Mehdi)!
 
